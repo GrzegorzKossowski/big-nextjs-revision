@@ -49,3 +49,44 @@ Wartość przesyłana w paramsach, np. `params.slug`, trafia do plików w katalo
 [SEO](https://nextjs.org/docs/app/getting-started/project-structure#seo)
 
 
+## Organizajca projektu
+
+### główny katalog
+
+```
+/app
+/components
+/lib
+```
+
+`/app` dopowiada tylko za przechowywanie tras
+
+### katalog app jako root
+
+```
+/app
+    /components
+    /lib
+    /some-path
+    page.tsx
+```
+
+`/app` jest także pojemnikiem na inne katlogi
+
+
+### katalogi grupowane (poza rotuowe)
+
+```
+/app
+    (group_1)
+        /some-path
+    (group_2)
+        /other-path
+    page.tsx
+```
+
+`/app` jest także pojemnikiem na inne katlogi
+
+### różne root layouty
+
+usuń layout z katalogu root i dodaj osobne layouty w grupach (muszą zawierać html, body tags)
