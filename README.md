@@ -1,3 +1,40 @@
-# big-nextjs-revision
+# Spis treści v.16 app router
 
-Just gathering some knowledge about NextJS
+ikony: ⚠️ ❗ ✔️ ✅ ❌
+
+1. [Instalacja](./001-installation.md)
+2. [Struktura projektu](./002-project-structure.md)
+3. [Układy i strony](./003-layouts-and-pages.md)
+4. [Łącza i nawigacja](./003.md)
+5. [Komponenty serwera i klienta](/003md")
+6. [Komponenty pamięci podręcznej](/006-cache-components.md") 🧪
+7. [Pobieranie danych](./003.md)
+8. [Aktualizacja danych](./003.md)
+9. [Buforowanie i ponowna walidacja](/003md")
+10. [Obsługa błędów](./003.md)
+11. [CSS](./003.md)
+12. [Optymalizacja obrazów](./003.md)
+13. [Optymalizacja czcionek](./003.md)
+14. [Metadane i obrazy OG](./003.md)
+15. [Obsługa tras](./003.md)
+16. [Proxy](./003.md)
+17. [Wdrażanie](./003.md)
+18. [Aktualizacja](./003.md)
+19. [Przewodniki](./003.md)
+20. [Dokumentacja API](./003.md)
+21. [Dyrektywy](./003.md)
+22. [Komponenty](./003.md)
+23. [Konwencje systemu plików](./003tio.md")
+24. [Funkcje](./003.md)
+25. [Konfiguracja](./003.md)
+26. [CLI](./003.md)
+27. [Edge Runtime](./003.md)
+28. [Turbopack](./003.md)
+29. [Architektura](./003.md)
+30. [Dostępność](./003.md)
+31. [Szybkie odświeżanie](./003.md)
+32. [Kompilator Next.js](./003.md)
+33. [Obsługiwane przeglądarki](./003tio.md")
+34. [Społeczność](./003.md)
+35. [Przewodnik dla współpracowników](/003md")
+36. [Rspack](./003.md)
