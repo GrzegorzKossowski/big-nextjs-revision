@@ -15,7 +15,7 @@ ikony: ⚠️ ❗ ✔️ ✅ ❌
 11. [CSS](./011-css-style.md)
 12. [Optymalizacja obrazów](./012-images.md)
 13. [Optymalizacja czcionek](./0013-fonts.md)
-14. [Metadane i obrazy OG](./003.md)
+14. [Metadane i obrazy OG](./0014-metadata-ogg.md)
 15. [Obsługa tras](./003.md)
 16. [Proxy](./003.md)
 17. [Wdrażanie](./003.md)
